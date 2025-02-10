@@ -1,4 +1,4 @@
-// / /Initializing arrays
+// Initializing arrays
 const myArr = [0, 1, 2, 3, 4, 5]; // An array of numbers
 const myHeroes = ["shaktiman", "naagraj"]; // An array of strings
 const myArr2 = new Array(1, 2, 3, 4); // Another way to create an array using the Array constructor
