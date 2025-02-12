@@ -25,7 +25,7 @@ const heroes=["shaktiman","nagraj","doga"];
 let myObj={
     name: "Adarsh",
     age: 20,
-}
+}//object
 
 const myFunction=function(){
     console.log("Hello World")
