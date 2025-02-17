@@ -18,7 +18,7 @@ console.log(otherNumber.toPrecision(3)); // Outputs: "23.9"
 // Declares a variable 'hundreds' with a value of 100000
 const hundreds = 100000;
 // Converts 'hundreds' to a string formatted according to Indian English conventions
-console.log(hundreds.toLocaleString('en-IN')); // Outputs: "1,00,000"
+console.log(hundreds.toLocaleString()); // Outputs: "1,00,000"
 
 // +++++++++++++++++++++++++++++ Maths++++++++++++++++++
 
