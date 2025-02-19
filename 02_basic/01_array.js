@@ -23,6 +23,8 @@ console.log(myArr.indexOf(9)); // Returns the index of 9 in 'myArr' (-1 if not f
 console.log(myArr.indexOf(3)); // Returns the index of 3 in 'myArr'
 
 const newArr = myArr.join(); // Joins all elements of 'myArr' into a string separated by commas
+console.log(myArr);
+
 console.log(newArr); // Prints the joined string
 console.log(typeof newArr); // Prints the type of 'newArr' (string)
 
