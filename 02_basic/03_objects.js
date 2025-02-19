@@ -28,7 +28,7 @@ JsUser.email = "me.adarsh1911@hotmail.com" // Ab ye update work karega kyunki fr
 console.log(JsUser) // Updated object ko console par print karenge
 
 // Object ke andar ek nayi method greeting add kar rahe hain
-JsUser.greeting = function() {
+ JsUser.greeting = function() {
     console.log("Hello Js User") // greeting method ka output
 }
 
