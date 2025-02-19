@@ -3,7 +3,7 @@ const dc_heroes=["superman","flash","batman"]
 
 // Pushes the entire 'dc_heroes' array as a single element into 'marvelHeroes'
 marvelHeroes.push(dc_heroes)
-console.log(marvelHeroes) // Output: ["thor", "ironman", "spiderman", ["superman", "flash", "batman"]]
+ console.log(marvelHeroes) // Output: ["thor", "ironman", "spiderman", ["superman", "flash", "batman"]]
 
 // Accesses the second element (index 1) of the array within 'marvelHeroes' at index 3
 console.log(marvelHeroes[3][1]) // Output: "flash"
