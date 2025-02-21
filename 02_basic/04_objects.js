@@ -1,4 +1,4 @@
-x // Naya object bana rahe hain
+// Naya object bana rahe hain
 const tinderUser = new Object();
 tinderUser.id = "123abc";
 tinderUser.name = "Adarsh";
