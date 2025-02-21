@@ -38,7 +38,7 @@ console.log(calculateCartPrice(200, 400, 50000, 500)); // Function ko call kiya 
 
 // Ek 'user' object banaya gaya hai
 const user = {
-    username: "Adarsh", // 'username' property ki value 'Adarsh' hai
+    username: "Lashika", // 'username' property ki value 'Adarsh' hai
     price: 199 // 'price' property ki value 199 hai
 }
 
